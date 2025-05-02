@@ -1,2 +1,5 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19397706)
 # cpsc39-finalProjects
+# I’m developing a terminal Task Manager written in Java that lets users authenticate to the program (by looking up a hash‐table), create and prioritize tasks (by using a PriorityQueue) and keep a history of actions in a linked list. I made pretty good progress! I have the project skeleton set up with classes for User, Task, and TaskManager, I implemented the basic login, a method for adding a task, sorting tasks by priority, a recursive method to search for subtasks, a method for checking the date correctness, and I pushed for a simple CLI login flow.
+
+# I’ll flesh out the menu to allow creating subtasks, viewing tasks, editing tasks, and viewing the activity log. I’ll create unit tests for each module, create better error handling (like a better way to give date‐validation feedback), and then I will draft the complete report that discusses design decisions, big-O complexities, and future work.
